@@ -1,0 +1,6 @@
+{
+  "name": "reshimat-kniyot",
+  "description": "רשימת קניות - Simple, fast, and smart grocery shopping list with quick add, category organization, and WhatsApp sharing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
